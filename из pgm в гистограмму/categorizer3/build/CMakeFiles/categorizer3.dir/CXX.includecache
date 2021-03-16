@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/categorizer.hpp
+
+/home/swamp47/project/categorizer3/src/categorizer.cpp
+categorizer.hpp
+/home/swamp47/project/categorizer3/src/categorizer.hpp
+iostream
+-
+

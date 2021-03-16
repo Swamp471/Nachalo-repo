@@ -1,0 +1,7 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\Admin\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(34,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(93,14): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\Admin\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(125): warning C4715: Vibor: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(71): warning C4715: Math::getMath: значение возвращается не при всех путях выполнения
+  ConsoleApplication10.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe

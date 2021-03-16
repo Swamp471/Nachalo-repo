@@ -1,0 +1,7 @@
+# ninja log v5
+314	382	1604874203077394980	categorizer3	d2d8cf8279b9ad4d
+1	314	1604874203013390933	CMakeFiles/categorizer3.dir/src/categorizer3.cpp.o	667837a434ab0986
+2	408	1604874410017936044	CMakeFiles/categorizer3.dir/src/categorizer3.cpp.o	667837a434ab0986
+408	511	1604874410117928981	categorizer3	d2d8cf8279b9ad4d
+0	330	1604874567739143800	CMakeFiles/categorizer3.dir/src/categorizer3.cpp.o	667837a434ab0986
+330	401	1604874567811142323	categorizer3	d2d8cf8279b9ad4d

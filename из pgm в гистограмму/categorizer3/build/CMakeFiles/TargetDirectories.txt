@@ -1,0 +1,3 @@
+/home/swamp47/project/categorizer3/build/CMakeFiles/rebuild_cache.dir
+/home/swamp47/project/categorizer3/build/CMakeFiles/edit_cache.dir
+/home/swamp47/project/categorizer3/build/CMakeFiles/categorizer3.dir

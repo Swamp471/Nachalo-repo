@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/categorizer3.dir/src/categorizer.cpp.o  -o categorizer3 
